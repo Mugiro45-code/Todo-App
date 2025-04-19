@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 400px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
